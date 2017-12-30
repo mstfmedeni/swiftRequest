@@ -9,7 +9,7 @@ Swift 3.0, 3.1, 4.0
 [Alamofire](https://github.com/Alamofire/Alamofire) and [SwiftyJSON](https://github.com/SwiftyJSON/SwiftyJSON) 
 
 # Overview
-GraphQL is based on a very simple HTTP transaction, which sends a request to an endpoint with query and variables.
+SwiftRequest is based on a very simple HTTP transaction, which sends a request to an endpoint with query and variables.
 Many libraries require complex stacks to make that simple request. In any project you use [Alamofire](https://github.com/Alamofire/Alamofire), [SwiftyJSON](https://github.com/SwiftyJSON/SwiftyJSON) , you'll need a simpler client your query and makes a simple request. Because this clases is very mixed for use, So if you will use this function You can make simple and easy requests.
 
 # Manually
